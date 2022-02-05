@@ -1,0 +1,11 @@
+.container{
+  text-align: center;
+  margin-top: 330px;
+  line-height: 2;
+  font-size: large;
+}
+
+.btn{
+  font-size: large;
+  padding: 10px 20px;
+}
